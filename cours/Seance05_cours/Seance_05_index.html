@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_dd6ca6eca3054b2fb5b7287c459330ca {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_dd6ca6eca3054b2fb5b7287c459330ca" ></div>
+        
+</body>
+<script>    
+    
+            var map_dd6ca6eca3054b2fb5b7287c459330ca = L.map(
+                "map_dd6ca6eca3054b2fb5b7287c459330ca",
+                {
+                    center: [48.853, 2.35],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f710d91a903449ddb91efd56afd16b48 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_dd6ca6eca3054b2fb5b7287c459330ca);
+        
+    
+            var marker_1bb350c0c00c4704ae3580e70049adb8 = L.marker(
+                [48.8814687366, 2.38368012582],
+                {}
+            ).addTo(map_dd6ca6eca3054b2fb5b7287c459330ca);
+        
+    
+            var icon_2aea263439d8405b8805400a382848ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "leaf", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_1bb350c0c00c4704ae3580e70049adb8.setIcon(icon_2aea263439d8405b8805400a382848ba);
+        
+    
+        var popup_626dd337b43e4cf9addd4f8ed7890b7d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7260195b6d1244e7a8cf8d004ddb8809 = $(`<div id="html_7260195b6d1244e7a8cf8d004ddb8809" style="width: 100.0%; height: 100.0%;"><table style='width: 200px'><tr><th>dateplantation</th><td>1700-01-01T01:02:49+00:53</td></tr><tr><th>libellefrancais</th><td>Sophora</td></tr><tr><th>objectid</th><td>35793</td></tr><tr><th>idemplacement</th><td>I1090024</td></tr><tr><th>arrondissement</th><td>PARIS 19E ARRDT</td></tr><tr><th>typeemplacement</th><td>Arbre</td></tr><tr><th>hauteurenm</th><td>12.0</td></tr><tr><th>espece</th><td>japonica</td></tr><tr><th>adresse</th><td>PARC DES BUTTES CHAUMONT</td></tr><tr><th>geom_x_y</th><td>[48.8814687366, 2.38368012582]</td></tr><tr><th>pepiniere</th><td>Inconnue</td></tr><tr><th>stadedeveloppement</th><td>M</td></tr><tr><th>remarquable</th><td>1</td></tr><tr><th>idbase</th><td>101752.0</td></tr><tr><th>genre</th><td>Sophora</td></tr><tr><th>complementadresse</th><td>19-06</td></tr><tr><th>domanialite</th><td>Jardin</td></tr><tr><th>circonferenceencm</th><td>408.0</td></tr></table></div>`)[0];
+            popup_626dd337b43e4cf9addd4f8ed7890b7d.setContent(html_7260195b6d1244e7a8cf8d004ddb8809);
+        
+
+        marker_1bb350c0c00c4704ae3580e70049adb8.bindPopup(popup_626dd337b43e4cf9addd4f8ed7890b7d)
+        ;
+
+        
+    
+    
+            var marker_8edeecb261924861906544bd8078edec = L.marker(
+                [48.8859514292, 2.34167969275],
+                {}
+            ).addTo(map_dd6ca6eca3054b2fb5b7287c459330ca);
+        
+    
+            var icon_1b465e903af04ca48044bcdd925986e9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "leaf", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_8edeecb261924861906544bd8078edec.setIcon(icon_1b465e903af04ca48044bcdd925986e9);
+        
+    
+        var popup_fcd443bb457244b389696691eced2281 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d36ee40fd3934cbebb1b9c6817495cf4 = $(`<div id="html_d36ee40fd3934cbebb1b9c6817495cf4" style="width: 100.0%; height: 100.0%;"><table style='width: 200px'><tr><th>dateplantation</th><td>1700-01-01T01:02:49+00:53</td></tr><tr><th>libellefrancais</th><td>Sophora</td></tr><tr><th>objectid</th><td>228621</td></tr><tr><th>idemplacement</th><td>000102003</td></tr><tr><th>arrondissement</th><td>PARIS 18E ARRDT</td></tr><tr><th>typeemplacement</th><td>Arbre</td></tr><tr><th>hauteurenm</th><td>16.0</td></tr><tr><th>espece</th><td>japonica</td></tr><tr><th>adresse</th><td>SQUARE NADAR / 2 RUE SAINT ELEUTHERE</td></tr><tr><th>geom_x_y</th><td>[48.8859514292, 2.34167969275]</td></tr><tr><th>pepiniere</th><td>Inconnue</td></tr><tr><th>stadedeveloppement</th><td>M</td></tr><tr><th>remarquable</th><td>1</td></tr><tr><th>idbase</th><td>120761.0</td></tr><tr><th>genre</th><td>Sophora</td></tr><tr><th>complementadresse</th><td>18-07</td></tr><tr><th>domanialite</th><td>Jardin</td></tr><tr><th>circonferenceencm</th><td>307.0</td></tr></table></div>`)[0];
+            popup_fcd443bb457244b389696691eced2281.setContent(html_d36ee40fd3934cbebb1b9c6817495cf4);
+        
+
+        marker_8edeecb261924861906544bd8078edec.bindPopup(popup_fcd443bb457244b389696691eced2281)
+        ;
+
+        
+    
+    
+            map_dd6ca6eca3054b2fb5b7287c459330ca.fitBounds(
+                [[48.8814687366, 2.34167969275], [48.8859514292, 2.38368012582]],
+                {}
+            );
+        
+</script>

@@ -1,0 +1,47 @@
+                                        1-Problème majeur rencontré:
+    Personnellement, le problème majeur que j'ai rencontré est la réalisation des fichiers de configuration car je
+n'arrive pas à faire le lien(indexer les paramètres) entre le fichier config.py et mon fichier exam.py. Avec le fichier
+config.ini, normalement je dois pouvoir faire appel au paramètres défini dans ma section default depuis exam.py.
+Cependant je n'arrive pas faire le lien les fichiers, donc l'alternative finale est pour le lancement de mon code selon
+besoin sera expliqué dans la partie 2 ci-dessous.
+
+                                        2-Lancement du script Exam.py:
+    Pour lancer le code selon le besoin sur le site Velib région d’Île-de-France, il faudra définir au départ, le
+niveau de zoom et les coordonnées du point sur lequel la carte sera centrée ainsi que le fond carto.
+Les lignes concernées sont : 13,14 et 18.
+
+    Ensuite à ligne 136 dans la condition "if" definir le nombre de minimal de disponibilité que l'on veut avoir ainsi
+que le nombre minimal de velib électrique disponible selon les station.
+    Pour finir, il faut le lancer depuis le terminale il suffit de faire : python exam.py ./config.ini.
+
+                                        3-Resultat obtenu après exécution:
+    Le script après exécution, nous génère une carte html qui prendra exactement comme nom de la date de récupération
+des data sur le site de velib.
+La carte contiendra les station velib qui existent dans le département 93 car le filtre des données est effectué
+ainsi dans le code et a la ligne 136 du fichier Exam.py.
+
+                                        4-Description des fichier du projet:
+-Le fichier exam.py regroupe l'ensemble des fonctions (celle auxiliaire appelée dans dans la fonction principale.
+creatMap) qui a son tour est exécuté depuis la console ou en suivant la procédure de lancement.
+-Le fichier requirement.txt contient toutes les bibliothèques qui sont utilisée dans le script tout entier.
+-Le fichier departement.geojson est le fichier sur lequel le filtre finale pour l'affichage est fait.
+-Le fichier config.py qui contient la configuration python des paramètre indiqué dans le fichier config.ini.
+-Le fichier config.ini contient les paramètres que l'on peut définir selon besoin.
+-La fonction mergData2() est une autre manière de faire la fusion des deux sonnées récupérées depuis
+
+                                          5-PS:
+le site et elle renvoi un dictionnaire à partir duquel, il est possible d'effectuer une boucle.
+exemple:
+with open('./departement.geojson') as f:
+    lect = json.load(f)
+    limite = shape(lect["features"][0]['geometry'])
+
+for key, value in dataFinal.items():
+    lat=value['lat']
+    lon=value['lon']
+    p=Point(lon,lat)
+    dispo=value['num_bikes_available']
+    ebik=value['num_bikes_available_types'][1]['ebike']
+    mecanique=value['num_bikes_available_types'][0]['mechanical']
+    if limite.contains(p) and dispo>=8 and ebik>=1:
+        print(value)

@@ -1,0 +1,5885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29025241063,
+          48.8736809161
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 25049,
+        "idemplacement": "000206003 / 16-32",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "ilex",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8736809161,
+          2.29025241063
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 114867.0,
+        "genre": "Quercus",
+        "complementadresse": "PELOUSE 10 - 20 à 26",
+        "domanialite": "Jardin",
+        "circonferenceencm": 204.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31452314446,
+          48.8577764958
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 35593,
+        "idemplacement": "00000039",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE D''AJACCIO",
+        "geom_x_y": [
+          48.8577764958,
+          2.31452314446
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 109021.0,
+        "genre": "Platanus",
+        "complementadresse": "07-13",
+        "domanialite": "Jardin",
+        "circonferenceencm": 480.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38883414897,
+          48.8678069026
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Amandier",
+        "objectid": 42390,
+        "idemplacement": "0000001",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 9.0,
+        "espece": "dulcis",
+        "adresse": "CENTRE D''ANIMATION LES AMANDIERS / 110 RUE DES AMANDIERS",
+        "geom_x_y": [
+          48.8678069026,
+          2.38883414897
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2013640.0,
+        "genre": "Prunus",
+        "domanialite": "DAC",
+        "circonferenceencm": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43791851368,
+          48.8183891866
+        ]
+      },
+      "properties": {
+        "dateplantation": "1860-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 47232,
+        "idemplacement": "12-15",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "ilex",
+        "adresse": "PENTE DE GRAVELLE - AVENUE DE GRAVELLE / ROUTE NOUVELLE",
+        "geom_x_y": [
+          48.8183891866,
+          2.43791851368
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002385.0,
+        "genre": "Quercus",
+        "complementadresse": "12-15",
+        "domanialite": "Jardin",
+        "circonferenceencm": 245.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25242001202,
+          48.8465652331
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 212806,
+        "idemplacement": "00040039",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "ilex",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8465652331,
+          2.25242001202
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136323.0,
+        "genre": "Quercus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 233.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33940394029,
+          48.857749011
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Saule",
+        "objectid": 82748,
+        "idemplacement": "000402002",
+        "arrondissement": "PARIS 1ER ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "babylonica",
+        "adresse": "QUAI DE L HORLOGE",
+        "geom_x_y": [
+          48.857749011,
+          2.33940394029
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 230281.0,
+        "genre": "Salix",
+        "domanialite": "Alignement",
+        "circonferenceencm": 140.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34392438346,
+          48.8846213312
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 87563,
+        "idemplacement": "00000201",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "orientalis",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8846213312,
+          2.34392438346
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120588.0,
+        "genre": "Platanus",
+        "complementadresse": "18-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 520.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39184377559,
+          48.8608096279
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 89442,
+        "idemplacement": "D00000004036",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "libani",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 4",
+        "geom_x_y": [
+          48.8608096279,
+          2.39184377559
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 152606.0,
+        "genre": "Cedrus",
+        "complementadresse": "20-16",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 372.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24601704099,
+          48.8692243438
+        ]
+      },
+      "properties": {
+        "dateplantation": "1847-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 153869,
+        "idemplacement": "000701005",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 40.0,
+        "espece": "x hispanica",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8692243438,
+          2.24601704099
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002346.0,
+        "genre": "Platanus",
+        "complementadresse": "16-19",
+        "domanialite": "Jardin",
+        "circonferenceencm": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39826376533,
+          48.8819364512
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Frêne",
+        "objectid": 23729,
+        "idemplacement": "00000509",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 24.0,
+        "espece": "excelsior",
+        "adresse": "SQUARE DE LA BUTTE DU CHAPEAU ROUGE / 11 BOULEVARD D ALGERIE",
+        "geom_x_y": [
+          48.8819364512,
+          2.39826376533
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 127998.0,
+        "genre": "Fraxinus",
+        "complementadresse": "19-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 385.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268523785,
+          48.8946228565
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Tulipier",
+        "objectid": 32874,
+        "idemplacement": "00000134",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 17.0,
+        "espece": "tulipifera",
+        "adresse": "SQUARE DES EPINETTES",
+        "geom_x_y": [
+          48.8946228565,
+          2.3268523785
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 134212.0,
+        "genre": "Liriodendron",
+        "complementadresse": "17-03",
+        "domanialite": "Jardin",
+        "circonferenceencm": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38368012582,
+          48.8814687366
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sophora",
+        "objectid": 35793,
+        "idemplacement": "I1090024",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "japonica",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8814687366,
+          2.38368012582
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 101752.0,
+        "genre": "Sophora",
+        "complementadresse": "19-06",
+        "domanialite": "Jardin",
+        "circonferenceencm": 408.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23370602002,
+          48.8648104138
+        ]
+      },
+      "properties": {
+        "dateplantation": "1901-01-01T01:09:21+01:00",
+        "libellefrancais": "Saule",
+        "objectid": 56121,
+        "idemplacement": "000201001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "babylonica",
+        "adresse": "ETANG DE SURESNES / ROUTE DE SURESNES - ROUTE DES MOULINS",
+        "geom_x_y": [
+          48.8648104138,
+          2.23370602002
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2009036.0,
+        "genre": "Salix",
+        "complementadresse": "16-61",
+        "domanialite": "Jardin",
+        "circonferenceencm": 285.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31716310443,
+          48.8872385242
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 177974,
+        "idemplacement": "00000072",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "fraxinifolia",
+        "adresse": "SQUARE DES BATIGNOLLES",
+        "geom_x_y": [
+          48.8872385242,
+          2.31716310443
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 135262.0,
+        "genre": "Pterocarya",
+        "complementadresse": "17-07",
+        "domanialite": "Jardin",
+        "circonferenceencm": 397.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3228497157,
+          48.8217882346
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 201668,
+        "idemplacement": "00000174",
+        "arrondissement": "PARIS 14E ARRDT",
+        "circonferenceencm": 310.0,
+        "hauteurenm": 15.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE DU SERMENT DE KOUFRA",
+        "geom_x_y": [
+          48.8217882346,
+          2.3228497157
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 121632.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Atropunicea''",
+        "complementadresse": "14-09",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29637433742,
+          48.855701791
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Lilas de Perse",
+        "objectid": 203050,
+        "idemplacement": "P00411006",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "azedarach",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.855701791,
+          2.29637433742
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 107079.0,
+        "genre": "Melia",
+        "complementadresse": "Canton 04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 136.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31617875419,
+          48.8875264747
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 203076,
+        "idemplacement": "00000187",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "orientalis",
+        "adresse": "SQUARE DES BATIGNOLLES",
+        "geom_x_y": [
+          48.8875264747,
+          2.31617875419
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 135378.0,
+        "genre": "Platanus",
+        "complementadresse": "17-08",
+        "domanialite": "Jardin",
+        "circonferenceencm": 452.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34811930339,
+          48.8578670722
+        ]
+      },
+      "properties": {
+        "dateplantation": "2009-01-01T02:00:00+01:00",
+        "libellefrancais": "Mûrier",
+        "objectid": 230201,
+        "idemplacement": "000103001",
+        "arrondissement": "PARIS 4E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 7.0,
+        "espece": "alba",
+        "adresse": "SQUARE DE LA TOUR SAINT JACQUES / 1 BIS RUE SAINT MARTIN",
+        "geom_x_y": [
+          48.8578670722,
+          2.34811930339
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 123848.0,
+        "genre": "Morus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 105.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25226717382,
+          48.8465006206
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Tulipier",
+        "objectid": 76086,
+        "idemplacement": "00040037",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 23.0,
+        "espece": "tulipifera",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8465006206,
+          2.25226717382
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 136321.0,
+        "genre": "Liriodendron",
+        "domanialite": "Jardin",
+        "circonferenceencm": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35399346953,
+          48.8557603076
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Orme",
+        "objectid": 97628,
+        "idemplacement": "000301001",
+        "arrondissement": "PARIS 4E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "minor",
+        "adresse": "PLACE SAINT GERVAIS",
+        "geom_x_y": [
+          48.8557603076,
+          2.35399346953
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 267663.0,
+        "genre": "Ulmus",
+        "complementadresse": "04-01",
+        "domanialite": "Alignement",
+        "circonferenceencm": 190.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3133255898,
+          48.8685728778
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Libocèdre",
+        "objectid": 13288,
+        "idemplacement": "000104002",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 22.0,
+        "espece": "decurrens",
+        "adresse": "JARDINS DES CHAMPS ELYSEES - SQUARE MARIGNY / 41 AVENUE GABRIEL",
+        "geom_x_y": [
+          48.8685728778,
+          2.3133255898
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 307478.0,
+        "genre": "Calocedrus",
+        "complementadresse": "Secteur Marigny",
+        "domanialite": "Jardin",
+        "circonferenceencm": 207.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36062553598,
+          48.8648374901
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 45493,
+        "idemplacement": "00000024",
+        "arrondissement": "PARIS 3E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "colurna",
+        "adresse": "SQUARE DU TEMPLE / 50 RUE DE BRETAGNE",
+        "geom_x_y": [
+          48.8648374901,
+          2.36062553598
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 116886.0,
+        "genre": "Corylus",
+        "complementadresse": "03-05",
+        "domanialite": "Jardin",
+        "circonferenceencm": 226.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30078240398,
+          48.8552202311
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Micocoulier",
+        "objectid": 168998,
+        "idemplacement": "P00907006",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 19.0,
+        "espece": "occidentalis",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.8552202311,
+          2.30078240398
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 106662.0,
+        "genre": "Celtis",
+        "complementadresse": "Canton 09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3446801359,
+          48.8860986781
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 211849,
+        "idemplacement": "00000127",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "fraxinifolia",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8860986781,
+          2.3446801359
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120518.0,
+        "genre": "Pterocarya",
+        "complementadresse": "18-12",
+        "domanialite": "Jardin",
+        "circonferenceencm": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33192988137,
+          48.8767091018
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 224006,
+        "idemplacement": "00000050",
+        "arrondissement": "PARIS 9E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "fraxinifolia",
+        "adresse": "SQUARE D''ESTIENNE D''ORVES",
+        "geom_x_y": [
+          48.8767091018,
+          2.33192988137
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 323350.0,
+        "genre": "Pterocarya",
+        "complementadresse": "09-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33670121886,
+          48.8226040554
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 74888,
+        "idemplacement": "031302006",
+        "arrondissement": "PARIS 14E ARRDT",
+        "circonferenceencm": 400.0,
+        "hauteurenm": 25.0,
+        "espece": "sylvatica",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8226040554,
+          2.33670121886
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 113328.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Riversii''",
+        "complementadresse": "Grande pelouse",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4641321139,
+          48.8409420689
+        ]
+      },
+      "properties": {
+        "dateplantation": "1900-01-01T01:09:21+01:00",
+        "libellefrancais": "Erable",
+        "objectid": 76184,
+        "idemplacement": "12-23",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "cappadocicum",
+        "adresse": "PELOUSE DE FONTENAY - AVENUE DE LA BELLE GABRIELLE",
+        "geom_x_y": [
+          48.8409420689,
+          2.4641321139
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002378.0,
+        "genre": "Acer",
+        "complementadresse": "12-23",
+        "domanialite": "Jardin",
+        "circonferenceencm": 294.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35182356011,
+          48.852346005
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Tamaris",
+        "objectid": 82155,
+        "idemplacement": "00000059",
+        "arrondissement": "PARIS 4E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 3.0,
+        "espece": "n. sp.",
+        "adresse": "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+        "geom_x_y": [
+          48.852346005,
+          2.35182356011
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 125051.0,
+        "genre": "Tamarix",
+        "domanialite": "Jardin",
+        "circonferenceencm": 230.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27816921701,
+          48.8715363448
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 136176,
+        "idemplacement": "000307023 / 16-27",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "x hispanica",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8715363448,
+          2.27816921701
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 111331.0,
+        "genre": "Platanus",
+        "complementadresse": "PELOUSE 20 - 75 à 77",
+        "domanialite": "Jardin",
+        "circonferenceencm": 443.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28959099748,
+          48.8624518436
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 19949,
+        "idemplacement": "001005001",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "sempervirens",
+        "adresse": "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+        "geom_x_y": [
+          48.8624518436,
+          2.28959099748
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 108277.0,
+        "genre": "Sequoia",
+        "complementadresse": "Canton 10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 182.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29608898567,
+          48.8426511702
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Micocoulier",
+        "objectid": 42004,
+        "idemplacement": "00000151",
+        "arrondissement": "PARIS 15E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "australis",
+        "adresse": "SQUARE SAINT-LAMBERT",
+        "geom_x_y": [
+          48.8426511702,
+          2.29608898567
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 112222.0,
+        "genre": "Celtis",
+        "complementadresse": "15-05",
+        "domanialite": "Jardin",
+        "circonferenceencm": 225.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3950502607,
+          48.861255856
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 171766,
+        "idemplacement": "D00000045009",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "x hispanica",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 45",
+        "geom_x_y": [
+          48.861255856,
+          2.3950502607
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 162943.0,
+        "genre": "Platanus",
+        "complementadresse": "20-14",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 362.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25302676408,
+          48.845904263
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pistachier",
+        "objectid": 175596,
+        "idemplacement": "00060050",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "terebinthus",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.845904263,
+          2.25302676408
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 113571.0,
+        "genre": "Pistacia",
+        "domanialite": "Jardin",
+        "circonferenceencm": 171.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41349281717,
+          48.8303745987
+        ]
+      },
+      "properties": {
+        "dateplantation": "1870-01-01T01:02:49+00:53",
+        "libellefrancais": "Erable",
+        "objectid": 216112,
+        "idemplacement": "12-05",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "opalus",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8303745987,
+          2.41349281717
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002358.0,
+        "genre": "Acer",
+        "complementadresse": "12-05",
+        "domanialite": "Jardin",
+        "circonferenceencm": 203.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24852119162,
+          48.8704055251
+        ]
+      },
+      "properties": {
+        "dateplantation": "1843-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 65712,
+        "idemplacement": "000701007",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 24.0,
+        "espece": "orientalis",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8704055251,
+          2.24852119162
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002351.0,
+        "genre": "Platanus",
+        "complementadresse": "16-18",
+        "domanialite": "Jardin",
+        "circonferenceencm": 221.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35621122947,
+          48.8492902734
+        ]
+      },
+      "properties": {
+        "dateplantation": "1900-01-01T01:09:21+01:00",
+        "libellefrancais": "Platane",
+        "objectid": 66378,
+        "idemplacement": "000301059",
+        "arrondissement": "PARIS 5E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "x hispanica",
+        "adresse": "QUAI SAINT BERNARD",
+        "geom_x_y": [
+          48.8492902734,
+          2.35621122947
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 298210.0,
+        "genre": "Platanus",
+        "complementadresse": "Jussieux",
+        "domanialite": "Alignement",
+        "circonferenceencm": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29045015635,
+          48.8735408016
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Savonnier",
+        "objectid": 69285,
+        "idemplacement": "000206001 / 16-34",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 8.0,
+        "espece": "paniculata",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8735408016,
+          2.29045015635
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 114869.0,
+        "genre": "Koelreuteria",
+        "complementadresse": "PELOUSE 10 - 20 à 26",
+        "domanialite": "Jardin",
+        "circonferenceencm": 163.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34421971028,
+          48.8499468102
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Orme de Sibérie",
+        "objectid": 103479,
+        "idemplacement": "00000001",
+        "arrondissement": "PARIS 5E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "carpinifolia",
+        "adresse": "SQUARE PAUL PAINLEVE",
+        "geom_x_y": [
+          48.8499468102,
+          2.34421971028
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 132479.0,
+        "genre": "Zelkova",
+        "complementadresse": "05-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25198353717,
+          48.847146744
+        ]
+      },
+      "properties": {
+        "dateplantation": "1905-01-01T01:09:21+01:00",
+        "libellefrancais": "Pterocarya",
+        "objectid": 120337,
+        "idemplacement": "00040026",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "stenoptera",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.847146744,
+          2.25198353717
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136310.0,
+        "genre": "Pterocarya",
+        "domanialite": "Jardin",
+        "circonferenceencm": 560.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34472507365,
+          48.8856757452
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Oranger des Osages",
+        "objectid": 161309,
+        "idemplacement": "00000141",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "pomifera",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8856757452,
+          2.34472507365
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120530.0,
+        "genre": "Maclura",
+        "complementadresse": "18-11",
+        "domanialite": "Jardin",
+        "circonferenceencm": 209.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2875405986,
+          48.8727963278
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 167932,
+        "idemplacement": "000105001 / 16-25",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "colurna",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8727963278,
+          2.2875405986
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 114779.0,
+        "genre": "Corylus",
+        "complementadresse": "PELOUSE 15 - 27 à 29",
+        "domanialite": "Jardin",
+        "circonferenceencm": 204.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29862973163,
+          48.85437945
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 29172,
+        "idemplacement": "P00709013",
+        "arrondissement": "PARIS 7E ARRDT",
+        "circonferenceencm": 308.0,
+        "hauteurenm": 20.0,
+        "espece": "libani",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.85437945,
+          2.29862973163
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 106913.0,
+        "genre": "Cedrus",
+        "varieteoucultivar": "''Glauca''",
+        "complementadresse": "Canton 07",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29056540474,
+          48.8729000638
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Mûrier",
+        "objectid": 35122,
+        "idemplacement": "000103010",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 8.0,
+        "espece": "nigra",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8729000638,
+          2.29056540474
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 114685.0,
+        "genre": "Morus",
+        "complementadresse": "PELOUSE 14 - 11 à 27",
+        "domanialite": "Jardin",
+        "circonferenceencm": 156.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34167969275,
+          48.8859514292
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sophora",
+        "objectid": 228621,
+        "idemplacement": "000102003",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "japonica",
+        "adresse": "SQUARE NADAR / 2 RUE SAINT ELEUTHERE",
+        "geom_x_y": [
+          48.8859514292,
+          2.34167969275
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120761.0,
+        "genre": "Sophora",
+        "complementadresse": "18-07",
+        "domanialite": "Jardin",
+        "circonferenceencm": 307.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42111192826,
+          48.8336857764
+        ]
+      },
+      "properties": {
+        "dateplantation": "1875-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 125925,
+        "idemplacement": "12-03",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "biloba",
+        "adresse": "ECOLE DE CHIENS GUIDE D AVEUGLES - AVENUE DE SAINT-MAURICE",
+        "geom_x_y": [
+          48.8336857764,
+          2.42111192826
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002368.0,
+        "genre": "Ginkgo",
+        "complementadresse": "12-03",
+        "domanialite": "Jardin",
+        "circonferenceencm": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26157034611,
+          48.8629082876
+        ]
+      },
+      "properties": {
+        "dateplantation": "1893-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 143995,
+        "idemplacement": "000101002",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 17.0,
+        "espece": "biloba",
+        "adresse": "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8629082876,
+          2.26157034611
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002391.0,
+        "genre": "Ginkgo",
+        "complementadresse": "16-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25916497406,
+          48.8740821646
+        ]
+      },
+      "properties": {
+        "dateplantation": "1910-01-01T01:09:21+01:00",
+        "libellefrancais": "Catalpa",
+        "objectid": 220610,
+        "idemplacement": "001301001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "bignonioides",
+        "adresse": "TIR AU PIGEON / 32 ROUTE DE L ETOILE",
+        "geom_x_y": [
+          48.8740821646,
+          2.25916497406
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2009236.0,
+        "genre": "Catalpa",
+        "complementadresse": "16-62",
+        "domanialite": "Jardin",
+        "circonferenceencm": 397.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.252676244,
+          48.864817945
+        ]
+      },
+      "properties": {
+        "dateplantation": "1872-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 221502,
+        "idemplacement": "000501003",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 32.0,
+        "espece": "giganteum",
+        "adresse": "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+        "geom_x_y": [
+          48.864817945,
+          2.252676244
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002394.0,
+        "genre": "Sequoiadendron",
+        "complementadresse": "16-14",
+        "domanialite": "Jardin",
+        "circonferenceencm": 634.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41181713566,
+          48.8320775848
+        ]
+      },
+      "properties": {
+        "dateplantation": "1870-01-01T01:02:49+00:53",
+        "libellefrancais": "If",
+        "objectid": 145855,
+        "idemplacement": "12-08",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 5.0,
+        "espece": "baccata",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8320775848,
+          2.41181713566
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002362.0,
+        "genre": "Taxus",
+        "complementadresse": "12-08",
+        "domanialite": "Jardin",
+        "circonferenceencm": 101.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4555149836,
+          48.8210095188
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Pin",
+        "objectid": 27911,
+        "idemplacement": "12-20",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 17.0,
+        "espece": "coulteri",
+        "adresse": "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+        "geom_x_y": [
+          48.8210095188,
+          2.4555149836
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002379.0,
+        "genre": "Pinus",
+        "complementadresse": "12-20",
+        "domanialite": "Jardin",
+        "circonferenceencm": 234.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34306606827,
+          48.8844740542
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 57669,
+        "idemplacement": "00000002",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 21.0,
+        "espece": "hippocastanum",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8844740542,
+          2.34306606827
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 112503.0,
+        "genre": "Aesculus",
+        "complementadresse": "18-14",
+        "domanialite": "Jardin",
+        "circonferenceencm": 365.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4114313613,
+          48.8313828964
+        ]
+      },
+      "properties": {
+        "dateplantation": "1935-01-01T01:00:00+01:00",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 170056,
+        "idemplacement": "12-12",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "virginiana",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8313828964,
+          2.4114313613
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002360.0,
+        "genre": "Diospyros",
+        "complementadresse": "12-12",
+        "domanialite": "Jardin",
+        "circonferenceencm": 163.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29728541016,
+          48.8428258374
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Aulne",
+        "objectid": 192438,
+        "idemplacement": "00000087",
+        "arrondissement": "PARIS 15E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "n. sp.",
+        "adresse": "SQUARE SAINT-LAMBERT",
+        "geom_x_y": [
+          48.8428258374,
+          2.29728541016
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 111640.0,
+        "genre": "Alnus",
+        "complementadresse": "15-02",
+        "domanialite": "Jardin",
+        "circonferenceencm": 225.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34379244341,
+          48.8856292413
+        ]
+      },
+      "properties": {
+        "dateplantation": "1952-01-01T02:00:00+01:00",
+        "libellefrancais": "Grenadier",
+        "objectid": 107532,
+        "idemplacement": "00001160",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 3.0,
+        "espece": "granatum",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8856292413,
+          2.34379244341
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 125087.0,
+        "genre": "Punica",
+        "domanialite": "Jardin",
+        "circonferenceencm": 30.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31335175239,
+          48.865247802
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 112931,
+        "idemplacement": "000109003",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 29.0,
+        "espece": "x hispanica",
+        "adresse": "JARDINS DES CHAMPS ELYSEES - ABORDS OUEST DU GRAND PALAIS / 7 AVENUE WINSTON CHURCHILL",
+        "geom_x_y": [
+          48.865247802,
+          2.31335175239
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 302598.0,
+        "genre": "Platanus",
+        "complementadresse": "Secteur Grand Palais",
+        "domanialite": "Jardin",
+        "circonferenceencm": 583.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33627703861,
+          48.8220251
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 133565,
+        "idemplacement": "0311D1001",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "sempervirens",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8220251,
+          2.33627703861
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 113353.0,
+        "genre": "Sequoia",
+        "complementadresse": "Volcan / Puits",
+        "domanialite": "Jardin",
+        "circonferenceencm": 355.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25406628275,
+          48.8460398085
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Micocoulier",
+        "objectid": 145947,
+        "idemplacement": "00060082",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 9.0,
+        "espece": "koraiensis",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8460398085,
+          2.25406628275
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 114452.0,
+        "genre": "Celtis",
+        "domanialite": "Jardin",
+        "circonferenceencm": 173.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41279793669,
+          48.8334358135
+        ]
+      },
+      "properties": {
+        "dateplantation": "1845-01-01T01:02:49+00:53",
+        "libellefrancais": "Noyer",
+        "objectid": 160968,
+        "idemplacement": "12-04",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "nigra",
+        "adresse": "ROUTE DE LA CEINTURE DU LAC DAUMESNIL - LAC DAUMESNIL / PORTE DOREE",
+        "geom_x_y": [
+          48.8334358135,
+          2.41279793669
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002367.0,
+        "genre": "Juglans",
+        "complementadresse": "12-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 585.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30647417371,
+          48.8787029872
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Erable",
+        "objectid": 195776,
+        "idemplacement": "00NO0144",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "pseudoplatanus",
+        "adresse": "PARC MONCEAU",
+        "geom_x_y": [
+          48.8787029872,
+          2.30647417371
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 305507.0,
+        "genre": "Acer",
+        "complementadresse": "08-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25977704939,
+          48.8606050739
+        ]
+      },
+      "properties": {
+        "dateplantation": "1862-01-01T01:02:49+00:53",
+        "libellefrancais": "Cyprès Chauve",
+        "objectid": 202740,
+        "idemplacement": "000101003",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 32.0,
+        "espece": "distichum",
+        "adresse": "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8606050739,
+          2.25977704939
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002397.0,
+        "genre": "Taxodium",
+        "complementadresse": "16-03",
+        "domanialite": "Jardin",
+        "circonferenceencm": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24887874572,
+          48.8732484628
+        ]
+      },
+      "properties": {
+        "dateplantation": "1906-01-01T01:09:21+01:00",
+        "libellefrancais": "Arbre aux mouchoirs",
+        "objectid": 216113,
+        "idemplacement": "000701006",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "involucrata",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8732484628,
+          2.24887874572
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002355.0,
+        "genre": "Davidia",
+        "complementadresse": "16-20",
+        "domanialite": "Jardin",
+        "circonferenceencm": 120.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41167739693,
+          48.831216573
+        ]
+      },
+      "properties": {
+        "dateplantation": "1893-01-01T01:02:49+00:53",
+        "libellefrancais": "Cryptomeria",
+        "objectid": 229403,
+        "idemplacement": "12-13",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "japonica",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.831216573,
+          2.41167739693
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002359.0,
+        "genre": "Cryptomeria",
+        "complementadresse": "12-13",
+        "domanialite": "Jardin",
+        "circonferenceencm": 122.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43334109188,
+          48.8395251386
+        ]
+      },
+      "properties": {
+        "dateplantation": "1918-01-01T01:00:00+01:00",
+        "libellefrancais": "Platane",
+        "objectid": 81154,
+        "idemplacement": "12-01",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+        "geom_x_y": [
+          48.8395251386,
+          2.43334109188
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002371.0,
+        "genre": "Platanus",
+        "complementadresse": "12-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 607.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28136402859,
+          48.872641762
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Orme de Sibérie",
+        "objectid": 81926,
+        "idemplacement": "000404059 / 16-26",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "carpinifolia",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.872641762,
+          2.28136402859
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 114140.0,
+        "genre": "Zelkova",
+        "complementadresse": "PELOUSE 05 - 54 à 68",
+        "domanialite": "Jardin",
+        "circonferenceencm": 426.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27026875561,
+          48.8672280446
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 130178,
+        "idemplacement": "000101001",
+        "arrondissement": "PARIS 16E ARRDT",
+        "circonferenceencm": 216.0,
+        "hauteurenm": 6.0,
+        "espece": "libani",
+        "adresse": "SQUARE CLAUDE DEBUSSY / 51 AVENUE DU MARECHAL FAYOLLE",
+        "geom_x_y": [
+          48.8672280446,
+          2.27026875561
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 138935.0,
+        "genre": "Cedrus",
+        "varieteoucultivar": "''Glauca Pendula''",
+        "complementadresse": "16-24",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31951521699,
+          48.866975458
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 165775,
+        "idemplacement": "000103001",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 19.0,
+        "espece": "giganteum",
+        "adresse": "JARDINS DES CHAMPS ELYSEES - JARDIN DES AMBASSADEURS / 10 AVENUE DES CHAMPS ELYSEES",
+        "geom_x_y": [
+          48.866975458,
+          2.31951521699
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 302514.0,
+        "genre": "Sequoiadendron",
+        "complementadresse": "Secteur Ambassadeurs",
+        "domanialite": "Jardin",
+        "circonferenceencm": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35102356684,
+          48.8527676299
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 12496,
+        "idemplacement": "00000054",
+        "arrondissement": "PARIS 4E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 19.0,
+        "espece": "colurna",
+        "adresse": "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+        "geom_x_y": [
+          48.8527676299,
+          2.35102356684
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 125046.0,
+        "genre": "Corylus",
+        "complementadresse": "04-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33747224929,
+          48.8229510204
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 16773,
+        "idemplacement": "031401018",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "biloba",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8229510204,
+          2.33747224929
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 106981.0,
+        "genre": "Ginkgo",
+        "complementadresse": "Flatters",
+        "domanialite": "Jardin",
+        "circonferenceencm": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38066315428,
+          48.8797546767
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 43817,
+        "idemplacement": "K0660013",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "giganteum",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8797546767,
+          2.38066315428
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 102837.0,
+        "genre": "Sequoiadendron",
+        "complementadresse": "19-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 510.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41199243435,
+          48.8319894005
+        ]
+      },
+      "properties": {
+        "dateplantation": "1930-01-01T01:00:00+01:00",
+        "libellefrancais": "Tulipier",
+        "objectid": 55319,
+        "idemplacement": "12-09",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 21.0,
+        "espece": "tulipifera",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8319894005,
+          2.41199243435
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002361.0,
+        "genre": "Liriodendron",
+        "complementadresse": "12-09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 214.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24886478886,
+          48.8731110898
+        ]
+      },
+      "properties": {
+        "dateplantation": "1868-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 179408,
+        "idemplacement": "000701004",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "circonferenceencm": 231.0,
+        "hauteurenm": 16.0,
+        "espece": "sylvatica",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8731110898,
+          2.24886478886
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002354.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "complementadresse": "16-17",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25137540594,
+          48.8462426895
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Erable",
+        "objectid": 136416,
+        "idemplacement": "00040005",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "monspessulanum",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8462426895,
+          2.25137540594
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 123330.0,
+        "genre": "Acer",
+        "domanialite": "Jardin",
+        "circonferenceencm": 207.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34503292777,
+          48.8493511595
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 154494,
+        "idemplacement": "00000001",
+        "arrondissement": "PARIS 5E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 24.0,
+        "espece": "orientalis",
+        "adresse": "SQUARE MICHEL-FOUCAULT / 43Q RUE DES ECOLES",
+        "geom_x_y": [
+          48.8493511595,
+          2.34503292777
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 132542.0,
+        "genre": "Platanus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 395.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35069308175,
+          48.8330296265
+        ]
+      },
+      "properties": {
+        "dateplantation": "1894-01-01T01:09:21+01:00",
+        "libellefrancais": "Marronnier",
+        "objectid": 22583,
+        "idemplacement": "00010270",
+        "arrondissement": "PARIS 13E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "hippocastanum",
+        "adresse": "SQUARE RENE LE GALL",
+        "geom_x_y": [
+          48.8330296265,
+          2.35069308175
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 104841.0,
+        "genre": "Aesculus",
+        "complementadresse": "13-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 360.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32583007025,
+          48.8319997987
+        ]
+      },
+      "properties": {
+        "dateplantation": "1996-01-01T02:00:00+01:00",
+        "libellefrancais": "Cèdre",
+        "objectid": 31018,
+        "idemplacement": "10030016",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "libani",
+        "adresse": "SQUARE DE L ASPIRAND DUNAND / 20 RUE SAILLARD",
+        "geom_x_y": [
+          48.8319997987,
+          2.32583007025
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 116216.0,
+        "genre": "Cedrus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 140.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39906598184,
+          48.8615163386
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chicot du Canada",
+        "objectid": 42713,
+        "idemplacement": "D00000077024",
+        "arrondissement": "PARIS 20E ARRDT",
+        "circonferenceencm": 155.0,
+        "hauteurenm": 11.0,
+        "espece": "dioica",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 77",
+        "geom_x_y": [
+          48.8615163386,
+          2.39906598184
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 158609.0,
+        "genre": "Gymnocladus",
+        "varieteoucultivar": "''Variegata''",
+        "complementadresse": "20-17",
+        "domanialite": "CIMETIERE",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36003937333,
+          48.8497459373
+        ]
+      },
+      "properties": {
+        "dateplantation": "1993-01-01T02:00:00+01:00",
+        "libellefrancais": "Cèdre",
+        "objectid": 223101,
+        "idemplacement": "00000010",
+        "arrondissement": "PARIS 4E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "libani",
+        "adresse": "SQUARE BARYE / 2 BOULEVARD HENRI IV",
+        "geom_x_y": [
+          48.8497459373,
+          2.36003937333
+        ],
+        "pepiniere": "Inconnue",
+        "remarquable": "1",
+        "idbase": 123805.0,
+        "genre": "Cedrus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 133.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23789840571,
+          48.8625497049
+        ]
+      },
+      "properties": {
+        "dateplantation": "1896-01-01T01:09:21+01:00",
+        "libellefrancais": "Orme de Sibérie",
+        "objectid": 64930,
+        "idemplacement": "000601001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "carpinifolia",
+        "adresse": "MOULIN DE LONGCHAMP - ROUTE DES TRIBUNES",
+        "geom_x_y": [
+          48.8625497049,
+          2.23789840571
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002344.0,
+        "genre": "Zelkova",
+        "complementadresse": "16-06",
+        "domanialite": "Jardin",
+        "circonferenceencm": 321.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25274648217,
+          48.8476363794
+        ]
+      },
+      "properties": {
+        "dateplantation": "1895-01-01T01:09:21+01:00",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 91918,
+        "idemplacement": "00050045",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "biloba",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8476363794,
+          2.25274648217
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136527.0,
+        "genre": "Ginkgo",
+        "domanialite": "Jardin",
+        "circonferenceencm": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30097558498,
+          48.8396441672
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 102087,
+        "idemplacement": "000106001",
+        "arrondissement": "PARIS 15E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "frainetto",
+        "adresse": "SQUARE DE LA PLACE ADOLPHE CHERIOUX / 260 RUE DE VAUGIRARD",
+        "geom_x_y": [
+          48.8396441672,
+          2.30097558498
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 113597.0,
+        "genre": "Quercus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 180.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25294211329,
+          48.8671184424
+        ]
+      },
+      "properties": {
+        "dateplantation": "1872-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 158720,
+        "idemplacement": "001201001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 45.0,
+        "espece": "x hispanica",
+        "adresse": "ROUTE DU LAC A BAGATELLE",
+        "geom_x_y": [
+          48.8671184424,
+          2.25294211329
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002389.0,
+        "genre": "Platanus",
+        "complementadresse": "16-10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 534.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28980424689,
+          48.8626183113
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 3675,
+        "idemplacement": "001004011",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "x hispanica",
+        "adresse": "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+        "geom_x_y": [
+          48.8626183113,
+          2.28980424689
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 108281.0,
+        "genre": "Platanus",
+        "complementadresse": "Canton 10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 490.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29688266387,
+          48.8428184075
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Erable",
+        "objectid": 6512,
+        "idemplacement": "00000084",
+        "arrondissement": "PARIS 15E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "saccharinum",
+        "adresse": "SQUARE SAINT-LAMBERT",
+        "geom_x_y": [
+          48.8428184075,
+          2.29688266387
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 111642.0,
+        "genre": "Acer",
+        "complementadresse": "15-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25749975507,
+          48.8764740798
+        ]
+      },
+      "properties": {
+        "dateplantation": "1850-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 16905,
+        "idemplacement": "001001001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "giganteum",
+        "adresse": "ROUTE DE LA PORTE SAINT-JAMES",
+        "geom_x_y": [
+          48.8764740798,
+          2.25749975507
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002387.0,
+        "genre": "Sequoiadendron",
+        "complementadresse": "16-12",
+        "domanialite": "Jardin",
+        "circonferenceencm": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43337448245,
+          48.8394051605
+        ]
+      },
+      "properties": {
+        "dateplantation": "1862-01-01T01:02:49+00:53",
+        "libellefrancais": "Tulipier",
+        "objectid": 37559,
+        "idemplacement": "12-02",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "tulipifera",
+        "adresse": "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+        "geom_x_y": [
+          48.8394051605,
+          2.43337448245
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002370.0,
+        "genre": "Liriodendron",
+        "complementadresse": "12-02",
+        "domanialite": "Jardin",
+        "circonferenceencm": 298.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4106783229,
+          48.8322968473
+        ]
+      },
+      "properties": {
+        "dateplantation": "1860-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 173897,
+        "idemplacement": "12-07",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 35.0,
+        "espece": "x hispanica",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8322968473,
+          2.4106783229
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002365.0,
+        "genre": "Platanus",
+        "complementadresse": "12-07",
+        "domanialite": "Jardin",
+        "circonferenceencm": 399.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35437470573,
+          48.8614740968
+        ]
+      },
+      "properties": {
+        "dateplantation": "2006-01-01T02:00:00+01:00",
+        "libellefrancais": "Marronnier",
+        "objectid": 196790,
+        "idemplacement": "00000001",
+        "arrondissement": "PARIS 3E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 8.0,
+        "espece": "hippocastanum",
+        "adresse": "JARDIN ANNE FRANCK / 14 IMPASSE BERTHAUD",
+        "geom_x_y": [
+          48.8614740968,
+          2.35437470573
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "J",
+        "remarquable": "1",
+        "idbase": 134435.0,
+        "genre": "Aesculus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 76.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.44974260862,
+          48.8433078707
+        ]
+      },
+      "properties": {
+        "dateplantation": "1815-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 219766,
+        "idemplacement": "12-26",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "robur",
+        "adresse": "FORT NEUF - AVENUE DE LA PEPINIERE / ROUTE DU GRAND MARECHAL",
+        "geom_x_y": [
+          48.8433078707,
+          2.44974260862
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002375.0,
+        "genre": "Quercus",
+        "complementadresse": "12-26",
+        "domanialite": "Jardin",
+        "circonferenceencm": 464.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31645921238,
+          48.8876882466
+        ]
+      },
+      "properties": {
+        "dateplantation": "1850-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 137540,
+        "idemplacement": "00000206",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 34.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE DES BATIGNOLLES",
+        "geom_x_y": [
+          48.8876882466,
+          2.31645921238
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 135397.0,
+        "genre": "Platanus",
+        "complementadresse": "17-10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 597.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30030293309,
+          48.8558049513
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 160585,
+        "idemplacement": "P00905010",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "kaki",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.8558049513,
+          2.30030293309
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 106715.0,
+        "genre": "Diospyros",
+        "complementadresse": "Canton 09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 118.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40008292539,
+          48.8658336196
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 14034,
+        "idemplacement": "000201005",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "colurna",
+        "adresse": "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+        "geom_x_y": [
+          48.8658336196,
+          2.40008292539
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 121940.0,
+        "genre": "Corylus",
+        "complementadresse": "20-06",
+        "domanialite": "Jardin",
+        "circonferenceencm": 160.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29103626939,
+          48.8615946163
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 28197,
+        "idemplacement": "000906007",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "colurna",
+        "adresse": "JARDINS DU TROCADERO / 3 PLACE DE VARSOVIE",
+        "geom_x_y": [
+          48.8615946163,
+          2.29103626939
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 108256.0,
+        "genre": "Corylus",
+        "complementadresse": "Canton 09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 258.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31706267506,
+          48.8873178299
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 41768,
+        "idemplacement": "00000224",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "lotus",
+        "adresse": "SQUARE DES BATIGNOLLES",
+        "geom_x_y": [
+          48.8873178299,
+          2.31706267506
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 135415.0,
+        "genre": "Diospyros",
+        "complementadresse": "17-12",
+        "domanialite": "Jardin",
+        "circonferenceencm": 157.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31472511735,
+          48.8574173085
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Magnolia",
+        "objectid": 226969,
+        "idemplacement": "00000034",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "grandiflora",
+        "adresse": "SQUARE D''AJACCIO",
+        "geom_x_y": [
+          48.8574173085,
+          2.31472511735
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 109016.0,
+        "genre": "Magnolia",
+        "complementadresse": "07-10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 155.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25198968756,
+          48.8472736385
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Magnolia",
+        "objectid": 140494,
+        "idemplacement": "00040021",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "grandiflora",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8472736385,
+          2.25198968756
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136305.0,
+        "genre": "Magnolia",
+        "domanialite": "Jardin",
+        "circonferenceencm": 190.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26913461956,
+          48.8600333815
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 151984,
+        "idemplacement": "00040084",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "fraxinifolia",
+        "adresse": "JARDIN DU RANELAGH",
+        "geom_x_y": [
+          48.8600333815,
+          2.26913461956
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136794.0,
+        "genre": "Pterocarya",
+        "complementadresse": "16-40",
+        "domanialite": "Jardin",
+        "circonferenceencm": 445.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35366916319,
+          48.8448875264
+        ]
+      },
+      "properties": {
+        "dateplantation": "1905-01-01T01:09:21+01:00",
+        "libellefrancais": "Hêtre",
+        "objectid": 163153,
+        "idemplacement": "00000075",
+        "arrondissement": "PARIS 5E ARRDT",
+        "circonferenceencm": 90.0,
+        "hauteurenm": 3.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE DES ARENES DE LUTECE",
+        "geom_x_y": [
+          48.8448875264,
+          2.35366916319
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 132669.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Tortuosa''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29331873957,
+          48.8578387601
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 56480,
+        "idemplacement": "P00108001",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "x hispanica",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE / SETE",
+        "geom_x_y": [
+          48.8578387601,
+          2.29331873957
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 108095.0,
+        "genre": "Platanus",
+        "complementadresse": "Canton 01 / SETE",
+        "domanialite": "Jardin",
+        "circonferenceencm": 695.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33578615166,
+          48.8218388917
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 172193,
+        "idemplacement": "0311B1011",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "ilex",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8218388917,
+          2.33578615166
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 110934.0,
+        "genre": "Quercus",
+        "complementadresse": "Volcan / Puits",
+        "domanialite": "Jardin",
+        "circonferenceencm": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29020948574,
+          48.8363411221
+        ]
+      },
+      "properties": {
+        "dateplantation": "1973-01-01T02:00:00+01:00",
+        "libellefrancais": "Hêtre",
+        "objectid": 190631,
+        "idemplacement": "00000002",
+        "arrondissement": "PARIS 15E ARRDT",
+        "circonferenceencm": 130.0,
+        "hauteurenm": 5.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE DU CLOS FEUQUIERES",
+        "geom_x_y": [
+          48.8363411221,
+          2.29020948574
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 128373.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25217460792,
+          48.8648326277
+        ]
+      },
+      "properties": {
+        "dateplantation": "1897-01-01T01:09:21+01:00",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 203405,
+        "idemplacement": "000501002",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "kaki",
+        "adresse": "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+        "geom_x_y": [
+          48.8648326277,
+          2.25217460792
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002388.0,
+        "genre": "Diospyros",
+        "complementadresse": "16-13",
+        "domanialite": "Jardin",
+        "circonferenceencm": 146.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38570950523,
+          48.8800797215
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 64542,
+        "idemplacement": "G0380001",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 22.0,
+        "espece": "hippocastanum",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8800797215,
+          2.38570950523
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 102027.0,
+        "genre": "Aesculus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30755979417,
+          48.8785828156
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 72757,
+        "idemplacement": "00SO0222",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 31.0,
+        "espece": "orientalis",
+        "adresse": "PARC MONCEAU",
+        "geom_x_y": [
+          48.8785828156,
+          2.30755979417
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 313940.0,
+        "genre": "Platanus",
+        "complementadresse": "08-02",
+        "domanialite": "Jardin",
+        "circonferenceencm": 645.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25372288858,
+          48.8477822447
+        ]
+      },
+      "properties": {
+        "dateplantation": "1982-01-01T02:00:00+01:00",
+        "libellefrancais": "Bouleau",
+        "objectid": 110767,
+        "idemplacement": "00030015",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "nigra",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8477822447,
+          2.25372288858
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136460.0,
+        "genre": "Betula",
+        "domanialite": "Jardin",
+        "circonferenceencm": 215.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2417737512,
+          48.8630096006
+        ]
+      },
+      "properties": {
+        "dateplantation": "1882-01-01T01:02:49+00:53",
+        "libellefrancais": "Pin",
+        "objectid": 112046,
+        "idemplacement": "000901001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "nigra subsp. laricio",
+        "adresse": "RESERVOIR DE LA GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+        "geom_x_y": [
+          48.8630096006,
+          2.2417737512
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002349.0,
+        "genre": "Pinus",
+        "complementadresse": "16-08",
+        "domanialite": "Jardin",
+        "circonferenceencm": 241.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25898794355,
+          48.8613685289
+        ]
+      },
+      "properties": {
+        "dateplantation": "1857-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 146293,
+        "idemplacement": "000801001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "circonferenceencm": 200.0,
+        "hauteurenm": 10.0,
+        "espece": "sylvatica",
+        "adresse": "PETITE ILE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8613685289,
+          2.25898794355
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002393.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "complementadresse": "16-11",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38050012851,
+          48.8770427283
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "If",
+        "objectid": 164686,
+        "idemplacement": "O1020001",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "baccata",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8770427283,
+          2.38050012851
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 103916.0,
+        "genre": "Taxus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 140.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26173856394,
+          48.8631730613
+        ]
+      },
+      "properties": {
+        "dateplantation": "1882-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 30922,
+        "idemplacement": "000101004",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "fraxinifolia",
+        "adresse": "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8631730613,
+          2.26173856394
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002392.0,
+        "genre": "Pterocarya",
+        "complementadresse": "16-02",
+        "domanialite": "Jardin",
+        "circonferenceencm": 407.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39871043218,
+          48.86193299
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Erable",
+        "objectid": 175873,
+        "idemplacement": "D00000077020",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "monspessulanum",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 77",
+        "geom_x_y": [
+          48.86193299,
+          2.39871043218
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 140495.0,
+        "genre": "Acer",
+        "complementadresse": "20-07",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 232.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41121935815,
+          48.8338187551
+        ]
+      },
+      "properties": {
+        "dateplantation": "1860-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 185969,
+        "idemplacement": "12-14",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "x hispanica",
+        "adresse": "ROUTE DE LA CEINTURE DU LAC DAUMESNIL - LAC DAUMESNIL / PORTE DOREE",
+        "geom_x_y": [
+          48.8338187551,
+          2.41121935815
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002366.0,
+        "genre": "Platanus",
+        "complementadresse": "12-14",
+        "domanialite": "Jardin",
+        "circonferenceencm": 482.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39924431307,
+          48.8810210944
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 193837,
+        "idemplacement": "00000004",
+        "arrondissement": "PARIS 19E ARRDT",
+        "circonferenceencm": 276.0,
+        "hauteurenm": 21.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE DE LA BUTTE DU CHAPEAU ROUGE / 11 BOULEVARD D ALGERIE",
+        "geom_x_y": [
+          48.8810210944,
+          2.39924431307
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 127516.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Atropunicea''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33968342685,
+          48.8233452352
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 199104,
+        "idemplacement": "041501007",
+        "arrondissement": "PARIS 14E ARRDT",
+        "circonferenceencm": 145.0,
+        "hauteurenm": 5.0,
+        "espece": "sylvatica",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8233452352,
+          2.33968342685
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 110444.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Tortuosa''",
+        "complementadresse": "Lac et Berges",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24072476384,
+          48.863263161
+        ]
+      },
+      "properties": {
+        "dateplantation": "1859-01-01T01:02:49+00:53",
+        "libellefrancais": "Cyprès Chauve",
+        "objectid": 70604,
+        "idemplacement": "000301001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "distichum",
+        "adresse": "GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+        "geom_x_y": [
+          48.863263161,
+          2.24072476384
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002347.0,
+        "genre": "Taxodium",
+        "complementadresse": "16-07",
+        "domanialite": "Jardin",
+        "circonferenceencm": 311.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35080387137,
+          48.8521020309
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Orme",
+        "objectid": 94127,
+        "idemplacement": "00000069",
+        "arrondissement": "PARIS 4E ARRDT",
+        "circonferenceencm": 167.0,
+        "hauteurenm": 10.0,
+        "espece": "glabra",
+        "adresse": "SQUARE JEAN XXIII / 2 QUAI DE L ARCHEVECHE",
+        "geom_x_y": [
+          48.8521020309,
+          2.35080387137
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 125063.0,
+        "genre": "Ulmus",
+        "varieteoucultivar": "''Pendula''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33870925824,
+          48.8231288576
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 100318,
+        "idemplacement": "0417A2001",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "biloba",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8231288576,
+          2.33870925824
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 112946.0,
+        "genre": "Ginkgo",
+        "complementadresse": "Talus du Lac",
+        "domanialite": "Jardin",
+        "circonferenceencm": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31024539129,
+          48.882331696
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 151323,
+        "idemplacement": "00000013",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "hippocastanum",
+        "adresse": "PELOUSES DE LA PLACE DU GENERAL CATROUX",
+        "geom_x_y": [
+          48.882331696,
+          2.31024539129
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 128154.0,
+        "genre": "Aesculus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 385.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41144640633,
+          48.8323392302
+        ]
+      },
+      "properties": {
+        "dateplantation": "1860-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 5935,
+        "idemplacement": "12-11",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 40.0,
+        "espece": "x hispanica",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8323392302,
+          2.41144640633
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002364.0,
+        "genre": "Platanus",
+        "complementadresse": "12-11",
+        "domanialite": "Jardin",
+        "circonferenceencm": 397.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34350324718,
+          48.8877361833
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 39259,
+        "idemplacement": "00000028",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "x hispanica",
+        "adresse": "PARC MARCEL BLEUSTEIN BLANCHET",
+        "geom_x_y": [
+          48.8877361833,
+          2.34350324718
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120299.0,
+        "genre": "Platanus",
+        "complementadresse": "18-13",
+        "domanialite": "Jardin",
+        "circonferenceencm": 349.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39684653818,
+          48.863392803
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 171762,
+        "idemplacement": "D00000084016",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "biloba",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 84",
+        "geom_x_y": [
+          48.863392803,
+          2.39684653818
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 158457.0,
+        "genre": "Ginkgo",
+        "complementadresse": "20-12",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 165.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33573525468,
+          48.8542732882
+        ]
+      },
+      "properties": {
+        "dateplantation": "1999-01-25T02:00:00+01:00",
+        "libellefrancais": "Paulownia",
+        "objectid": 178122,
+        "idemplacement": "000101001",
+        "arrondissement": "PARIS 6E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "tomentosa",
+        "adresse": "RUE DE FURSTEMBERG",
+        "geom_x_y": [
+          48.8542732882,
+          2.33573525468
+        ],
+        "pepiniere": "Guillot Bourne",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 216766.0,
+        "genre": "Paulownia",
+        "domanialite": "Alignement",
+        "circonferenceencm": 295.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39574078452,
+          48.8578039088
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre à Gutta-Percha",
+        "objectid": 212580,
+        "idemplacement": "D00000075015",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "ulmoides",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 75",
+        "geom_x_y": [
+          48.8578039088,
+          2.39574078452
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 155948.0,
+        "genre": "Eucommia",
+        "complementadresse": "20-11",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 130.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29724575606,
+          48.8577724998
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre à Gutta-Percha",
+        "objectid": 88686,
+        "idemplacement": "P00607004",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "ulmoides",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.8577724998,
+          2.29724575606
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 107696.0,
+        "genre": "Eucommia",
+        "complementadresse": "Canton 06",
+        "domanialite": "Jardin",
+        "circonferenceencm": 195.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41145272899,
+          48.8326105728
+        ]
+      },
+      "properties": {
+        "dateplantation": "1930-01-01T01:00:00+01:00",
+        "libellefrancais": "Cyprès Chauve",
+        "objectid": 134735,
+        "idemplacement": "12-10",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "distichum",
+        "adresse": "ILE DE BERCY / LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8326105728,
+          2.41145272899
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002363.0,
+        "genre": "Taxodium",
+        "complementadresse": "12-10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 281.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3985769149,
+          48.8620845688
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 9566,
+        "idemplacement": "D00000077016",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "lotus",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 77",
+        "geom_x_y": [
+          48.8620845688,
+          2.3985769149
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 155788.0,
+        "genre": "Diospyros",
+        "complementadresse": "20-01",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 111.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24803445349,
+          48.8709369341
+        ]
+      },
+      "properties": {
+        "dateplantation": "1772-01-01T01:02:49+00:53",
+        "libellefrancais": "If",
+        "objectid": 35258,
+        "idemplacement": "000701001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "baccata",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8709369341,
+          2.24803445349
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002352.0,
+        "genre": "Taxus",
+        "complementadresse": "16-21",
+        "domanialite": "Jardin",
+        "circonferenceencm": 246.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29549925434,
+          48.8587536797
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 36454,
+        "idemplacement": "P00306006",
+        "arrondissement": "PARIS 7E ARRDT",
+        "circonferenceencm": 195.0,
+        "hauteurenm": 7.0,
+        "espece": "sylvatica",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE / SETE",
+        "geom_x_y": [
+          48.8587536797,
+          2.29549925434
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 108183.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "complementadresse": "Canton 03 / SETE",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37006279721,
+          48.8830293243
+        ]
+      },
+      "properties": {
+        "dateplantation": "1945-01-01T02:00:00+01:00",
+        "libellefrancais": "Tilleul",
+        "objectid": 228821,
+        "idemplacement": "000103001",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 23.0,
+        "espece": "tomentosa",
+        "adresse": "PLACE DE LA BATAILLE DE STALINGRAD",
+        "geom_x_y": [
+          48.8830293243,
+          2.37006279721
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 235972.0,
+        "genre": "Tilia",
+        "complementadresse": "19-05",
+        "domanialite": "Alignement",
+        "circonferenceencm": 215.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41318205865,
+          48.8292532091
+        ]
+      },
+      "properties": {
+        "dateplantation": "1871-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 71239,
+        "idemplacement": "12-30",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "x hispanica",
+        "adresse": "ROUTE DE LA CEINTURE DU LAC DAUMESNIL",
+        "geom_x_y": [
+          48.8292532091,
+          2.41318205865
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002357.0,
+        "genre": "Platanus",
+        "complementadresse": "12-30",
+        "domanialite": "Jardin",
+        "circonferenceencm": 504.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25833935548,
+          48.8586730749
+        ]
+      },
+      "properties": {
+        "dateplantation": "1863-01-01T01:02:49+00:53",
+        "libellefrancais": "Magnolia",
+        "objectid": 77083,
+        "idemplacement": "000101001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "grandiflora",
+        "adresse": "BERGE DU LAC INFERIEUR - CHEMIN DE CEINTURE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8586730749,
+          2.25833935548
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002390.0,
+        "genre": "Magnolia",
+        "complementadresse": "16-05",
+        "domanialite": "Jardin",
+        "circonferenceencm": 200.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45536669589,
+          48.8213206283
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Pin",
+        "objectid": 84303,
+        "idemplacement": "12-19",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "bungeana",
+        "adresse": "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+        "geom_x_y": [
+          48.8213206283,
+          2.45536669589
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002380.0,
+        "genre": "Pinus",
+        "complementadresse": "12-19",
+        "domanialite": "Jardin",
+        "circonferenceencm": 78.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45494663547,
+          48.821579307
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Orme de Sibérie",
+        "objectid": 87482,
+        "idemplacement": "12-21",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "carpinifolia",
+        "adresse": "ARBORETUM DE L ECOLE DU BREUIL - ROUTE DE LA FERME / ROUTE DE LA PYRAMIDE",
+        "geom_x_y": [
+          48.821579307,
+          2.45494663547
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002381.0,
+        "genre": "Zelkova",
+        "complementadresse": "12-21",
+        "domanialite": "Jardin",
+        "circonferenceencm": 308.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38566682415,
+          48.8801157455
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 90283,
+        "idemplacement": "G0380002",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "hippocastanum",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8801157455,
+          2.38566682415
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 102028.0,
+        "genre": "Aesculus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33796569737,
+          48.8241339366
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 121482,
+        "idemplacement": "0417B1018",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "x hispanica",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8241339366,
+          2.33796569737
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 112897.0,
+        "genre": "Platanus",
+        "complementadresse": "Talus du Lac",
+        "domanialite": "Jardin",
+        "circonferenceencm": 370.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24923265275,
+          48.8716811488
+        ]
+      },
+      "properties": {
+        "dateplantation": "1907-01-01T01:09:21+01:00",
+        "libellefrancais": "Araucaria",
+        "objectid": 134966,
+        "idemplacement": "000701003",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 11.0,
+        "espece": "araucana",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.8716811488,
+          2.24923265275
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002353.0,
+        "genre": "Araucaria",
+        "complementadresse": "16-23",
+        "domanialite": "Jardin",
+        "circonferenceencm": 182.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34976462735,
+          48.8288409104
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Figuier",
+        "objectid": 41089,
+        "idemplacement": "00000028",
+        "arrondissement": "PARIS 13E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 4.0,
+        "espece": "carica",
+        "adresse": "JARDIN BRASSAI / 2 RUE EUGENE ATGET",
+        "geom_x_y": [
+          48.8288409104,
+          2.34976462735
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 138456.0,
+        "genre": "Ficus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 120.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40656685552,
+          48.8388163194
+        ]
+      },
+      "properties": {
+        "dateplantation": "1990-01-01T02:00:00+01:00",
+        "libellefrancais": "Chêne",
+        "objectid": 46210,
+        "idemplacement": "00000026",
+        "arrondissement": "PARIS 12E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "frainetto",
+        "adresse": "SQUARE CHARLES PEGUY",
+        "geom_x_y": [
+          48.8388163194,
+          2.40656685552
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 123156.0,
+        "genre": "Quercus",
+        "complementadresse": "12-37",
+        "domanialite": "Jardin",
+        "circonferenceencm": 169.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38255442632,
+          48.8341620932
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 177476,
+        "idemplacement": "00000373",
+        "arrondissement": "PARIS 12E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 35.0,
+        "espece": "x hispanica",
+        "adresse": "PARC DE BERCY",
+        "geom_x_y": [
+          48.8341620932,
+          2.38255442632
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 100818.0,
+        "genre": "Platanus",
+        "complementadresse": "12-36",
+        "domanialite": "Jardin",
+        "circonferenceencm": 502.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34729161483,
+          48.8521900449
+        ]
+      },
+      "properties": {
+        "dateplantation": "1602-01-01T01:02:49+00:53",
+        "libellefrancais": "Robinier",
+        "objectid": 180425,
+        "idemplacement": "00000058",
+        "arrondissement": "PARIS 5E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 9.0,
+        "espece": "pseudoacacia",
+        "adresse": "SQUARE RENE VIVIANI",
+        "geom_x_y": [
+          48.8521900449,
+          2.34729161483
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 124358.0,
+        "genre": "Robinia",
+        "domanialite": "Jardin",
+        "circonferenceencm": 365.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34682048372,
+          48.893355459
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Cedrele",
+        "objectid": 108950,
+        "idemplacement": "00000009",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 17.0,
+        "espece": "sinensis",
+        "adresse": "SQUARE KRIEGEL - VALRIMONT",
+        "geom_x_y": [
+          48.893355459,
+          2.34682048372
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 120016.0,
+        "genre": "Toona",
+        "complementadresse": "18-08",
+        "domanialite": "Jardin",
+        "circonferenceencm": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38408821582,
+          48.8823220504
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 115766,
+        "idemplacement": "G0310005",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 24.0,
+        "espece": "biloba",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8823220504,
+          2.38408821582
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 102053.0,
+        "genre": "Ginkgo",
+        "domanialite": "Jardin",
+        "circonferenceencm": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3626526639,
+          48.8582820141
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Figuier",
+        "objectid": 119862,
+        "idemplacement": "00000018",
+        "arrondissement": "PARIS 3E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "carica",
+        "adresse": "SQUARE GEORGES CAIN / 8 RUE PAYENNE",
+        "geom_x_y": [
+          48.8582820141,
+          2.3626526639
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 116020.0,
+        "genre": "Ficus",
+        "complementadresse": "03-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 145.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39210515404,
+          48.8408777406
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Libocèdre",
+        "objectid": 161795,
+        "idemplacement": "00000005",
+        "arrondissement": "PARIS 12E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "decurrens",
+        "adresse": "JARDIN DE LA GARE DE REUILLY",
+        "geom_x_y": [
+          48.8408777406,
+          2.39210515404
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 125236.0,
+        "genre": "Calocedrus",
+        "complementadresse": "12-33",
+        "domanialite": "Jardin",
+        "circonferenceencm": 205.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32513190803,
+          48.8513574712
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Lilas de Perse",
+        "objectid": 19303,
+        "idemplacement": "00000031",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "azedarach",
+        "adresse": "SQUARE BOUCICAUT",
+        "geom_x_y": [
+          48.8513574712,
+          2.32513190803
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 118790.0,
+        "genre": "Melia",
+        "domanialite": "Jardin",
+        "circonferenceencm": 120.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3244386679,
+          48.8939378118
+        ]
+      },
+      "properties": {
+        "dateplantation": "1995-04-01T04:00:00+02:00",
+        "libellefrancais": "Metaséquoia",
+        "objectid": 42250,
+        "idemplacement": "000101005",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 18.0,
+        "espece": "glyptostroboides",
+        "adresse": "SQUARE DE LA VILLA SAINTE CROIX / 10 VILLA SAINTE CROIX",
+        "geom_x_y": [
+          48.8939378118,
+          2.3244386679
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 123071.0,
+        "genre": "Metasequoia",
+        "domanialite": "Jardin",
+        "circonferenceencm": 244.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29018563176,
+          48.836425027
+        ]
+      },
+      "properties": {
+        "dateplantation": "1973-01-01T02:00:00+01:00",
+        "libellefrancais": "Hêtre",
+        "objectid": 194761,
+        "idemplacement": "00000001",
+        "arrondissement": "PARIS 15E ARRDT",
+        "circonferenceencm": 140.0,
+        "hauteurenm": 4.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE DU CLOS FEUQUIERES",
+        "geom_x_y": [
+          48.836425027,
+          2.29018563176
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 128372.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31751956055,
+          48.8672440883
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Lilas de Perse",
+        "objectid": 209908,
+        "idemplacement": "000112001",
+        "arrondissement": "PARIS 8E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 14.0,
+        "espece": "azedarach",
+        "adresse": "JARDINS DES CHAMPS ELYSEES - JARDIN DES AMBASSADEURS / 10 AVENUE DES CHAMPS ELYSEES",
+        "geom_x_y": [
+          48.8672440883,
+          2.31751956055
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 307558.0,
+        "genre": "Melia",
+        "complementadresse": "Secteur Ambassadeurs",
+        "domanialite": "Jardin",
+        "circonferenceencm": 168.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25134968355,
+          48.8639651868
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Pin",
+        "objectid": 100231,
+        "idemplacement": "000501001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 27.0,
+        "espece": "nigra",
+        "adresse": "JARDIN DU PRE CATELAN - CARREFOUR DE LA GRANDE CASCADE / CARREFOUR DE LA CROIX CATELAN",
+        "geom_x_y": [
+          48.8639651868,
+          2.25134968355
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002395.0,
+        "genre": "Pinus",
+        "complementadresse": "16-16",
+        "domanialite": "Jardin",
+        "circonferenceencm": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25327790355,
+          48.84758185
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Catalpa",
+        "objectid": 103709,
+        "idemplacement": "00030003",
+        "arrondissement": "PARIS 16E ARRDT",
+        "circonferenceencm": 200.0,
+        "hauteurenm": 3.0,
+        "espece": "speciosa",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.84758185,
+          2.25327790355
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136448.0,
+        "genre": "Catalpa",
+        "varieteoucultivar": "''Pulverulenta''",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4451177535,
+          48.8201255055
+        ]
+      },
+      "properties": {
+        "dateplantation": "1829-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 106592,
+        "idemplacement": "12-16",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 22.0,
+        "espece": "libani",
+        "adresse": "LAC DE GRAVELLE - ROUTE DU PESAGE / ROUTE DE LA TOURELLE",
+        "geom_x_y": [
+          48.8201255055,
+          2.4451177535
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002384.0,
+        "genre": "Cedrus",
+        "complementadresse": "12-16",
+        "domanialite": "Jardin",
+        "circonferenceencm": 420.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24771343792,
+          48.869458282
+        ]
+      },
+      "properties": {
+        "dateplantation": "1850-01-01T01:02:49+00:53",
+        "libellefrancais": "Sequoia",
+        "objectid": 130563,
+        "idemplacement": "000701002",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "giganteum",
+        "adresse": "PARC DE BAGATELLE - ALLEE DE LONGCHAMP / ROUTE DE SEVRES A NEUILLY",
+        "geom_x_y": [
+          48.869458282,
+          2.24771343792
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 2002350.0,
+        "genre": "Sequoiadendron",
+        "complementadresse": "16-22",
+        "domanialite": "Jardin",
+        "circonferenceencm": 511.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34671864206,
+          48.876921106
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 29299,
+        "idemplacement": "000108001",
+        "arrondissement": "PARIS 9E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE MONTHOLON / 79 BIS RUE LA FAYETTE",
+        "geom_x_y": [
+          48.876921106,
+          2.34671864206
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 317250.0,
+        "genre": "Platanus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 465.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24048112696,
+          48.8633907267
+        ]
+      },
+      "properties": {
+        "dateplantation": "1862-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 49273,
+        "idemplacement": "000301002",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "libani",
+        "adresse": "GRANDE CASCADE - CARREFOUR DE LONGCHAMP",
+        "geom_x_y": [
+          48.8633907267,
+          2.24048112696
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002348.0,
+        "genre": "Cedrus",
+        "complementadresse": "16-09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 468.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34518635839,
+          48.8493165016
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 53339,
+        "idemplacement": "00000002",
+        "arrondissement": "PARIS 5E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 24.0,
+        "espece": "orientalis",
+        "adresse": "SQUARE MICHEL-FOUCAULT / 43Q RUE DES ECOLES",
+        "geom_x_y": [
+          48.8493165016,
+          2.34518635839
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 132543.0,
+        "genre": "Platanus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 450.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25286614408,
+          48.8471733403
+        ]
+      },
+      "properties": {
+        "dateplantation": "1895-01-01T01:09:21+01:00",
+        "libellefrancais": "Chêne",
+        "objectid": 181328,
+        "idemplacement": "00040054",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 11.0,
+        "espece": "suber subsp. Occidentalis",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8471733403,
+          2.25286614408
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136338.0,
+        "genre": "Quercus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 217.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36318943607,
+          48.8682954419
+        ]
+      },
+      "properties": {
+        "dateplantation": "2017-11-09T02:00:00+01:00",
+        "libellefrancais": "Chêne",
+        "objectid": 201825,
+        "idemplacement": "000401009",
+        "arrondissement": "PARIS 10E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 7.0,
+        "espece": "cerris",
+        "adresse": "PLACE DE LA REPUBLIQUE",
+        "geom_x_y": [
+          48.8682954419,
+          2.36318943607
+        ],
+        "pepiniere": "Guillot Bourne",
+        "stadedeveloppement": "J",
+        "remarquable": "1",
+        "idbase": 2017817.0,
+        "genre": "Quercus",
+        "domanialite": "Alignement",
+        "circonferenceencm": 51.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34991527056,
+          48.8330206707
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 204851,
+        "idemplacement": "00010268",
+        "arrondissement": "PARIS 13E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "cerris",
+        "adresse": "SQUARE RENE LE GALL",
+        "geom_x_y": [
+          48.8330206707,
+          2.34991527056
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 104839.0,
+        "genre": "Quercus",
+        "complementadresse": "13-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 130.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43388312679,
+          48.839886234
+        ]
+      },
+      "properties": {
+        "dateplantation": "1864-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 208842,
+        "idemplacement": "12-22",
+        "arrondissement": "BOIS DE VINCENNES",
+        "circonferenceencm": 414.0,
+        "hauteurenm": 16.0,
+        "espece": "sylvatica",
+        "adresse": "SQUARE CARNOT - AVENUE DAUMESNIL / ESPLANADE DU CHATEAU DE VINCENNES",
+        "geom_x_y": [
+          48.839886234,
+          2.43388312679
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002372.0,
+        "genre": "Fagus",
+        "varieteoucultivar": "''Pendula''",
+        "complementadresse": "12-22",
+        "domanialite": "Jardin",
+        "typeemplacement": "Arbre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26254793084,
+          48.8661272117
+        ]
+      },
+      "properties": {
+        "dateplantation": "1859-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 213575,
+        "idemplacement": "000401001",
+        "arrondissement": "BOIS DE BOULOGNE",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "orientalis",
+        "adresse": "ILE DU LAC INFERIEUR",
+        "geom_x_y": [
+          48.8661272117,
+          2.26254793084
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002398.0,
+        "genre": "Platanus",
+        "complementadresse": "16-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 380.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39461847904,
+          48.8564741998
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 214806,
+        "idemplacement": "001802036",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 23.0,
+        "espece": "x hispanica",
+        "adresse": "BOULEVARD DE CHARONNE",
+        "geom_x_y": [
+          48.8564741998,
+          2.39461847904
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 223748.0,
+        "genre": "Platanus",
+        "complementadresse": "148",
+        "domanialite": "Alignement",
+        "circonferenceencm": 407.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35926764063,
+          48.8277560491
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Cèdre",
+        "objectid": 224299,
+        "idemplacement": "00000357",
+        "arrondissement": "PARIS 13E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "libani",
+        "adresse": "SQUARE DE CHOISY",
+        "geom_x_y": [
+          48.8277560491,
+          2.35926764063
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 106181.0,
+        "genre": "Cedrus",
+        "complementadresse": "13-03",
+        "domanialite": "Jardin",
+        "circonferenceencm": 351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29353225481,
+          48.8682621216
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 87119,
+        "idemplacement": "00000012",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE THOMAS JEFFERSSON",
+        "geom_x_y": [
+          48.8682621216,
+          2.29353225481
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 126662.0,
+        "genre": "Platanus",
+        "domanialite": "Jardin",
+        "circonferenceencm": 149.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33868841423,
+          48.8227147039
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 113686,
+        "idemplacement": "0420A1001",
+        "arrondissement": "PARIS 14E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 25.0,
+        "espece": "x hispanica",
+        "adresse": "PARC MONTSOURIS / 28 BOULEVARD JOURDAN",
+        "geom_x_y": [
+          48.8227147039,
+          2.33868841423
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 113547.0,
+        "genre": "Platanus",
+        "complementadresse": "Plateau Baigneuses",
+        "domanialite": "Jardin",
+        "circonferenceencm": 610.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25314300756,
+          48.8476114157
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Sterculier",
+        "objectid": 116268,
+        "idemplacement": "00030001",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "simplex",
+        "adresse": "JARDIN DES SERRES D AUTEUIL / 1 AVENUE GORDON BENNETT",
+        "geom_x_y": [
+          48.8476114157,
+          2.25314300756
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 136446.0,
+        "genre": "Firmiana",
+        "domanialite": "Jardin",
+        "circonferenceencm": 133.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37908776833,
+          48.8618538525
+        ]
+      },
+      "properties": {
+        "dateplantation": "1882-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 119632,
+        "idemplacement": "000201002",
+        "arrondissement": "PARIS 11E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 21.0,
+        "espece": "colurna",
+        "adresse": "SQUARE MAURICE GARDETTE / 8 RUE GENERAL BLAISE",
+        "geom_x_y": [
+          48.8618538525,
+          2.37908776833
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 124914.0,
+        "genre": "Corylus",
+        "complementadresse": "11-01",
+        "domanialite": "Jardin",
+        "circonferenceencm": 265.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39994114274,
+          48.8656217619
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 135490,
+        "idemplacement": "000202004",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "x hispanica",
+        "adresse": "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+        "geom_x_y": [
+          48.8656217619,
+          2.39994114274
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 121945.0,
+        "genre": "Platanus",
+        "complementadresse": "20-05",
+        "domanialite": "Jardin",
+        "circonferenceencm": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30026431836,
+          48.8557930159
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Plaqueminier",
+        "objectid": 146609,
+        "idemplacement": "P00905009",
+        "arrondissement": "PARIS 7E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 13.0,
+        "espece": "lotus",
+        "adresse": "JARDIN DU CHAMP DE MARS ET PELOUSES DE L ECOLE MILITAIRE",
+        "geom_x_y": [
+          48.8557930159,
+          2.30026431836
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 106714.0,
+        "genre": "Diospyros",
+        "complementadresse": "Canton 09",
+        "domanialite": "Jardin",
+        "circonferenceencm": 163.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40093175935,
+          48.8650355075
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 4393,
+        "idemplacement": "000102006",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 26.0,
+        "espece": "hippocastanum",
+        "adresse": "SQUARE EDOUARD VAILLANT / 50 AVENUE GAMBETTA",
+        "geom_x_y": [
+          48.8650355075,
+          2.40093175935
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 121923.0,
+        "genre": "Aesculus",
+        "complementadresse": "20-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 380.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26796037248,
+          48.8642003629
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Hêtre",
+        "objectid": 28548,
+        "idemplacement": "470306001",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 15.0,
+        "espece": "sylvatica",
+        "adresse": "STADE DE LA PORTE DE LA MUETTE / 60 BOULEVARD LANNES",
+        "geom_x_y": [
+          48.8642003629,
+          2.26796037248
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 201570.0,
+        "genre": "Fagus",
+        "complementadresse": "16-38",
+        "domanialite": "DJS",
+        "circonferenceencm": 320.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38130530981,
+          48.8803354834
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 39240,
+        "idemplacement": "H0690012",
+        "arrondissement": "PARIS 19E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "x hispanica",
+        "adresse": "PARC DES BUTTES CHAUMONT",
+        "geom_x_y": [
+          48.8803354834,
+          2.38130530981
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 102141.0,
+        "genre": "Platanus",
+        "complementadresse": "19-08",
+        "domanialite": "Jardin",
+        "circonferenceencm": 686.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28679550428,
+          48.8731340013
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Platane",
+        "objectid": 55605,
+        "idemplacement": "000210037 / 16-29",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 21.0,
+        "espece": "x hispanica",
+        "adresse": "JARDIN DE L AVENUE FOCH / 10 AVENUE FOCH",
+        "geom_x_y": [
+          48.8731340013,
+          2.28679550428
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 114166.0,
+        "genre": "Platanus",
+        "complementadresse": "PELOUSE 08 - 34 à 44",
+        "domanialite": "Jardin",
+        "circonferenceencm": 445.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3301156142,
+          48.8858144156
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "If",
+        "objectid": 188146,
+        "idemplacement": "D00000014007",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 11.0,
+        "espece": "baccata",
+        "adresse": "CIMETIERE DE MONTMARTRE / DIV 14",
+        "geom_x_y": [
+          48.8858144156,
+          2.3301156142
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 167762.0,
+        "genre": "Taxus",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 293.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39663716021,
+          48.863856986
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Arbre aux quarante écus",
+        "objectid": 191349,
+        "idemplacement": "D00000078003",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "biloba",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 78",
+        "geom_x_y": [
+          48.863856986,
+          2.39663716021
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 158456.0,
+        "genre": "Ginkgo",
+        "complementadresse": "20-13",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 180.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27224829769,
+          48.8691331657
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Chicot du Canada",
+        "objectid": 204404,
+        "idemplacement": "00000007",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 12.0,
+        "espece": "dioica",
+        "adresse": "SQUARE ROBERT SCHUMAN",
+        "geom_x_y": [
+          48.8691331657,
+          2.27224829769
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 139108.0,
+        "genre": "Gymnocladus",
+        "complementadresse": "16-42",
+        "domanialite": "Jardin",
+        "circonferenceencm": 185.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3427055876,
+          48.8852311185
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Pterocarya",
+        "objectid": 81486,
+        "idemplacement": "00000033",
+        "arrondissement": "PARIS 18E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 28.0,
+        "espece": "fraxinifolia",
+        "adresse": "SQUARE LOUISE MICHEL",
+        "geom_x_y": [
+          48.8852311185,
+          2.3427055876
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 112542.0,
+        "genre": "Pterocarya",
+        "complementadresse": "18-10",
+        "domanialite": "Jardin",
+        "circonferenceencm": 418.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27021762792,
+          48.8591685681
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Noisetier de Byzance",
+        "objectid": 86450,
+        "idemplacement": "00040029",
+        "arrondissement": "PARIS 16E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 16.0,
+        "espece": "colurna",
+        "adresse": "JARDIN DU RANELAGH",
+        "geom_x_y": [
+          48.8591685681,
+          2.27021762792
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 136739.0,
+        "genre": "Corylus",
+        "complementadresse": "16-39",
+        "domanialite": "Jardin",
+        "circonferenceencm": 228.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39998313637,
+          48.8597425245
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 90576,
+        "idemplacement": "D00000076032",
+        "arrondissement": "PARIS 20E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 22.0,
+        "espece": "hippocastanum",
+        "adresse": "CIMETIERE DU PERE LACHAISE / DIV 76",
+        "geom_x_y": [
+          48.8597425245,
+          2.39998313637
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 147672.0,
+        "genre": "Aesculus",
+        "complementadresse": "20-15",
+        "domanialite": "CIMETIERE",
+        "circonferenceencm": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32633191622,
+          48.8940926568
+        ]
+      },
+      "properties": {
+        "dateplantation": "1700-01-01T01:02:49+00:53",
+        "libellefrancais": "Marronnier",
+        "objectid": 92763,
+        "idemplacement": "00000125",
+        "arrondissement": "PARIS 17E ARRDT",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 20.0,
+        "espece": "pavia",
+        "adresse": "SQUARE DES EPINETTES",
+        "geom_x_y": [
+          48.8940926568,
+          2.32633191622
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "A",
+        "remarquable": "1",
+        "idbase": 134203.0,
+        "genre": "Aesculus",
+        "complementadresse": "17-04",
+        "domanialite": "Jardin",
+        "circonferenceencm": 292.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43516626469,
+          48.8200711234
+        ]
+      },
+      "properties": {
+        "dateplantation": "2000-01-01T02:00:00+01:00",
+        "libellefrancais": "Catalpa",
+        "objectid": 107954,
+        "idemplacement": "12-38",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 10.0,
+        "espece": "bignonioides",
+        "adresse": "PENTE DE GRAVELLE - AVENUE DE GRAVELLE / ROUTE DU MOULIN ROUGE",
+        "geom_x_y": [
+          48.8200711234,
+          2.43516626469
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002399.0,
+        "genre": "Catalpa",
+        "complementadresse": "12-38",
+        "domanialite": "Jardin",
+        "circonferenceencm": 289.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4613206192,
+          48.8341740278
+        ]
+      },
+      "properties": {
+        "dateplantation": "1784-01-01T01:02:49+00:53",
+        "libellefrancais": "Chêne",
+        "objectid": 143996,
+        "idemplacement": "12-25",
+        "arrondissement": "BOIS DE VINCENNES",
+        "typeemplacement": "Arbre",
+        "hauteurenm": 30.0,
+        "espece": "robur",
+        "adresse": "LAC DES MINIMES - ROUTE RONDE DES MINIMES",
+        "geom_x_y": [
+          48.8341740278,
+          2.4613206192
+        ],
+        "pepiniere": "Inconnue",
+        "stadedeveloppement": "M",
+        "remarquable": "1",
+        "idbase": 2002376.0,
+        "genre": "Quercus",
+        "complementadresse": "12-25",
+        "domanialite": "Jardin",
+        "circonferenceencm": 422.0
+      }
+    }
+  ]
+}
